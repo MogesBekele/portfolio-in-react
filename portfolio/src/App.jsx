@@ -53,6 +53,25 @@ const App = () => {
           Project 13
         </li>
       </ul>
+      <h4 className="text-2xl text-center items-center justify-center">
+
+        Thank you for visiting my portfolio
+      </h4>
+      <h5 className="text-2xl text-center items-center justify-center">
+        I hope you enjoyed it
+      </h5>
+      <h6 className="text-2xl text-center items-center justify-center">
+        Please feel free to contact me
+      </h6>
+      <h7 className="text-2xl text-center items-center justify-center">
+        I would love to hear from you
+      </h7>
+      <h8 className="text-2xl text-center items-center justify-center">
+        Thank you for your time
+      </h8>
+      <h9 className="text-2xl text-center items-center justify-center">
+        Have a great day
+      </h9>
     </div>
   );
 };
