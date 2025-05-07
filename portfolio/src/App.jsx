@@ -53,8 +53,6 @@ const App = () => {
           Project 13
         </li>
       </ul>
-     
-  
     </div>
   );
 };
