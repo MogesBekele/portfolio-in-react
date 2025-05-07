@@ -53,10 +53,7 @@ const App = () => {
           Project 13
         </li>
       </ul>
-      <h4 className="text-2xl text-center items-center justify-center">
-
-        Thank you for visiting my portfolio
-      </h4>
+     
   
     </div>
   );
