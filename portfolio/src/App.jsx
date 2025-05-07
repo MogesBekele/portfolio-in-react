@@ -5,7 +5,7 @@ const App = () => {
     <div className="text-5xl text-center items-center justify-center ">
 
 
-      // write a simple react app that displays a list of items and allows the user to add new items to the list
+    
 
       <h1 className="text-5xl text-center items-center justify-center">My Portfolio</h1>
       <h2 className="text-3xl text-center items-center justify-center">Welcome to my portfolio</h2>
