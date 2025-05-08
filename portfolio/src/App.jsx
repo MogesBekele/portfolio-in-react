@@ -46,9 +46,7 @@ const App = () => {
         <li className="text-2xl text-center items-center justify-center">
           Project 11
         </li>
-        <li className="text-2xl text-center items-center justify-center">
-          Project 12
-        </li>
+    
      
       </ul>
     </div>
